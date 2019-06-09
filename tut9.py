@@ -14,6 +14,8 @@ def func2():
 
 def func3():
 	print ("func3")
+
+	
 ## creating a menu 
 win_menu = Menu(window)
 window.config(menu = win_menu)
